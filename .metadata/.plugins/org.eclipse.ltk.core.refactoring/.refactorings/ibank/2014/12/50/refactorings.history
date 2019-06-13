@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Account.java&apos; to &apos;ibank/src/br.ba.ibank.model&apos;&#x0D;&#x0A;- Original project: &apos;ibank&apos;&#x0D;&#x0A;- Destination element: &apos;ibank/src/br.ba.ibank.model&apos;&#x0D;&#x0A;- Original element: &apos;Account.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;br.ba.ibank.model" element1="/src&lt;{Account.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1417916652576" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;primeiro.exercicio.ContaPoupança.java&apos; to &apos;ContaPoupanca.java&apos;&#x0D;&#x0A;- Original project: &apos;HerancaEPolimorfismo&apos;&#x0D;&#x0A;- Original element: &apos;primeiro.exercicio.ContaPoupança.java&apos;&#x0D;&#x0A;- Renamed element: &apos;primeiro.exercicio.ContaPoupanca.java&apos;" description="Rename compilation unit &apos;ContaPoupança.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;primeiro.exercicio{ContaPoupança.java" name="ContaPoupanca.java" references="false" stamp="1457983175624" version="1.0"/>
+</session>

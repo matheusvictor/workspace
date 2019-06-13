@@ -1,0 +1,22 @@
+import java.util.ArrayList;
+
+public class Cliente {
+
+	public void listar(){
+		System.out.println(produtos.toString());
+	}
+	public void adicionar(Produto produto){
+		if(produtos.add(produto)){
+			System.out.println("Produto adicionado com sucesso ao carrinho!");
+		} else{
+			System.out.println("Erro ao adicionar o produto.");
+		}
+	}
+	
+	public Cliente(){ //inicializando lista
+		this.contas = new ArrayList<Conta>();
+	}
+	
+	private ArrayList<Conta> contas;
+}
+

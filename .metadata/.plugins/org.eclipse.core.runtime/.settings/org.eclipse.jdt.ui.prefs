@@ -1,0 +1,21 @@
+content_assist_disabled_computers=org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="example.Person"><rhs name\="example.Person"/></lhs><lhs name\="criacao.tv.icaro.TV"><rhs name\="criacao.tv.icaro.TV"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="QuestaoAtendimento.Aluno"><rhs name\="QuestaoAtendimento.AlunoIntegrado"/></lhs><lhs name\="QuestaoAtendimento.AlunoIntegrado"><rhs name\="QuestaoAtendimento.AlunoIntegrado"/></lhs><lhs name\="EntradaDeCinema"><rhs name\="EntradaDeCinema"/></lhs><lhs name\="Filme"><rhs name\="Filme"/></lhs><lhs name\="LocalGravacao"><rhs name\="LocalGravacao"/></lhs><lhs name\="questao01.Clientes"><rhs name\="questao01.Clientes"/></lhs><lhs name\="questao01.Contas"><rhs name\="questao01.Contas"/></lhs><lhs name\="questao01.Conta"><rhs name\="questao01.Conta"/></lhs><lhs name\="questao02.Livraria"><rhs name\="questao02.Livraria"/></lhs><lhs name\="questao02.Livros"><rhs name\="questao02.Livros"/></lhs><lhs name\="questao02.Livro"><rhs name\="questao02.Livro"/></lhs><lhs name\="locadoradeveiculos.Patio"><rhs name\="locadoradeveiculos.Patio"/></lhs><lhs name\="lavajato.Criminoso"><rhs name\="lavajato.Criminoso"/></lhs><lhs name\="lavajato.Processo"><rhs name\="lavajato.Processo"/></lhs><lhs name\="matricula.Matricula"><rhs name\="matricula.Matricula"/></lhs><lhs name\="matricula.Disciplina"><rhs name\="matricula.Disciplina"/></lhs><lhs name\="empresa.RH"><rhs name\="empresa.RH"/></lhs><lhs name\="empresa.Funcionario"><rhs name\="empresa.Funcionario"/></lhs><lhs name\="empresa.Empresa"><rhs name\="empresa.Empresa"/></lhs><lhs name\="mercado.Mercado"><rhs name\="mercado.Mercado"/></lhs><lhs name\="mercado.Produto"><rhs name\="mercado.Produto"/></lhs><lhs name\="banco.Conta"><rhs name\="banco.ContaPoupanca"/></lhs></history>
+content_assist_number_of_computers=21
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;
+proposalOrderMigrated=true
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

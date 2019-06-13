@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Questao7.Pais&apos; to &apos;Paises&apos;&#x0D;&#x0A;- Original project: &apos;Lista2UN(2015)&apos;&#x0D;&#x0A;- Original element: &apos;Questao7.Pais&apos;&#x0D;&#x0A;- Renamed element: &apos;Questao7.Paises&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Pais&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Questao7{Pais.java[Pais" matchStrategy="1" name="Paises" qualified="false" references="true" similarDeclarations="false" stamp="1448850055093" textual="false" version="1.0"/>
+</session>

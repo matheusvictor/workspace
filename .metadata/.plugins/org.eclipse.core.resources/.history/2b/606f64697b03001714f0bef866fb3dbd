@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+
+public class Cliente {
+
+	public void listar(){
+		System.out.println(contas.toString());
+	}
+	
+	public void adicionar(Conta novaConta){
+		if(contas.add(novaConta)){
+			System.out.println("Conta adicionada com sucesso!");
+		} else{
+			System.out.println("Erro ao adicionar conta.");
+		}
+	}
+	
+	public Cliente(){ //inicializando lista
+		this.contas = new ArrayList<Conta>();
+	}
+	
+	private ArrayList<Conta> contas;
+}
+

@@ -1,0 +1,18 @@
+package banco;
+
+public class Main {
+
+	public static void menu(){
+		System.out.println("##################################");
+		System.out.println("1- Add. prod. nacional.");
+		System.out.println("2- Add. prod. importado.");
+		System.out.println("3- Listar todos os produtos.");
+		System.out.println("##################################");
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

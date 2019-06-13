@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/terceiro-ano_linguagem-tec_2016/src/atividade02/questao02.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="atividade02.questao02"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="terceiro-ano_linguagem-tec_2016"/>
+</launchConfiguration>
